@@ -1,5 +1,7 @@
-# Vue-project
+# Health Application 
 
+## Idea 
+**The idea of this website is educational, it is made only with vue and some basic functionality with Typescript, my goal was to give information about healthy habits and better life.It has responsive content and beautiful template.I wanted to give this information with beautiful template and functional pages and buttons.**
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
